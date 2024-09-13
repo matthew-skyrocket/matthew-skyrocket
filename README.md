@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Matthew.  I work for [SkyRocket](https://skyrocketdigital.com/).
+
+You can [find my main account here](https://github.com/matthewcsimpson). 
+
 <!--
 **matthew-skyrocket/matthew-skyrocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
